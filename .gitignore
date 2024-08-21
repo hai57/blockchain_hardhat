@@ -1,3 +1,6 @@
 .env
+ignition/modules/config
+test/test.ts
+
 artifacts
 cache
